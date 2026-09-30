@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 Ứng dụng tính lãi gửi tiết kiệm")
+st.title("🌴🥥 Ứng dụng tính lãi gửi tiết kiệm của An Lê Trà Vinh 🥥🌴")
 st.write("Tính tiền lãi theo **lãi đơn** và **lãi kép**.")
 
 # =========================
