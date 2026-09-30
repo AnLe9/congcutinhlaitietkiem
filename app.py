@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("IMG_0423.jpeg")
 
 # =========================
 # CẤU HÌNH TRANG
